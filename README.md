@@ -1,22 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Shivam!%20👋&fontSize=42&fontAlignY=38&desc=Software%20Developer%20|%20Full%20Stack%20Enthusiast&descAlignY=62&descFontSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Shivam!%20👋&fontSize=42&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descFontSize=20" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=Passionate+Software+Developer;Building+robust+.NET+%26+Web+Applications;Exploring+Databases+%26+System+Architecture;Always+eager+to+learn+and+build!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=Computer+Engineering+Student;Exploring+Data+Science+%26+AI;Building+ML+%26+Web+Applications;Always+eager+to+learn+and+build!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building full-stack web applications with **ASP.NET, C# & SQL Server**
-- 🌱 Focusing on database design, backend logic, and clean code
-- 💬 Ask me about **.NET, C#, Web Dev, or SQL**
+- 🎓 **Computer Engineering Student** passionate about technology and problem solving
+- 🤖 Exploring **Data Science, Artificial Intelligence & Machine Learning**
+- 💻 Building full-stack web applications & intelligent projects with **Python, ASP.NET, C# & SQL Server**
+- 🌱 Focusing on machine learning models, data analysis, backend logic & clean code
+- 💬 Ask me about **Data Science, AI, Python, .NET, or SQL**
 - ⚡ Fun fact: *I debug faster with a cup of tea ☕*
 
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+**AI, Data Science & Machine Learning:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Languages & Frameworks:**  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
