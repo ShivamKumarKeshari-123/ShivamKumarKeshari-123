@@ -48,9 +48,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamKumarKeshari-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-two-plum.vercel.app/api?username=ShivamKumarKeshari-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKumarKeshari-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-two-plum.vercel.app/api/top-langs/?username=ShivamKumarKeshari-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKumarKeshari-123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
